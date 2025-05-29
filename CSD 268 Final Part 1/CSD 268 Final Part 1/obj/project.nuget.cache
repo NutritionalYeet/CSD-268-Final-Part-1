@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cStm9BKhc/w=",
+  "dgSpecHash": "V9voPOKfjjU=",
   "success": true,
-  "projectFilePath": "/Users/audrey/Projects/CSD 268 Final Part 1/CSD 268 Final Part 1/CSD 268 Final Part 1.csproj",
+  "projectFilePath": "/Users/audrey/AndroidStudioProjects/csd230-final-NutritionalYeet/silly_character_battler/CSD-268-Final-Part-1/CSD 268 Final Part 1/CSD 268 Final Part 1/CSD 268 Final Part 1.csproj",
   "expectedPackageFiles": [
     "/Users/audrey/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/Users/audrey/.nuget/packages/microsoft.codecoverage/17.3.2/microsoft.codecoverage.17.3.2.nupkg.sha512",
@@ -18,6 +18,8 @@
     "/Users/audrey/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
     "/Users/audrey/.nuget/packages/nunit.analyzers/3.3.0/nunit.analyzers.3.3.0.nupkg.sha512",
     "/Users/audrey/.nuget/packages/nunit3testadapter/4.2.1/nunit3testadapter.4.2.1.nupkg.sha512",
+    "/Users/audrey/.nuget/packages/selenium.chrome.webdriver/85.0.0/selenium.chrome.webdriver.85.0.0.nupkg.sha512",
+    "/Users/audrey/.nuget/packages/selenium.webdriver/4.33.0/selenium.webdriver.4.33.0.nupkg.sha512",
     "/Users/audrey/.nuget/packages/system.collections/4.0.11/system.collections.4.0.11.nupkg.sha512",
     "/Users/audrey/.nuget/packages/system.diagnostics.debug/4.0.11/system.diagnostics.debug.4.0.11.nupkg.sha512",
     "/Users/audrey/.nuget/packages/system.diagnostics.tools/4.0.1/system.diagnostics.tools.4.0.1.nupkg.sha512",
@@ -45,6 +47,8 @@
     "/Users/audrey/.nuget/packages/system.runtime.serialization.primitives/4.1.1/system.runtime.serialization.primitives.4.1.1.nupkg.sha512",
     "/Users/audrey/.nuget/packages/system.text.encoding/4.0.11/system.text.encoding.4.0.11.nupkg.sha512",
     "/Users/audrey/.nuget/packages/system.text.encoding.extensions/4.0.11/system.text.encoding.extensions.4.0.11.nupkg.sha512",
+    "/Users/audrey/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/audrey/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512",
     "/Users/audrey/.nuget/packages/system.text.regularexpressions/4.1.0/system.text.regularexpressions.4.1.0.nupkg.sha512",
     "/Users/audrey/.nuget/packages/system.threading/4.0.11/system.threading.4.0.11.nupkg.sha512",
     "/Users/audrey/.nuget/packages/system.threading.tasks/4.0.11/system.threading.tasks.4.0.11.nupkg.sha512",
