@@ -198,6 +198,6 @@
 /Users/audrey/AndroidStudioProjects/csd230-final-NutritionalYeet/silly_character_battler/CSD-268-Final-Part-1/CSD 268 Final Part 1/CSD 268 Final Part 1/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 /Users/audrey/AndroidStudioProjects/csd230-final-NutritionalYeet/silly_character_battler/CSD-268-Final-Part-1/CSD 268 Final Part 1/CSD 268 Final Part 1/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 /Users/audrey/AndroidStudioProjects/csd230-final-NutritionalYeet/silly_character_battler/CSD-268-Final-Part-1/CSD 268 Final Part 1/CSD 268 Final Part 1/bin/Debug/net7.0/runtimes/browser/lib/net7.0/System.Text.Encodings.Web.dll
-/Users/audrey/AndroidStudioProjects/csd230-final-NutritionalYeet/silly_character_battler/CSD-268-Final-Part-1/CSD 268 Final Part 1/CSD 268 Final Part 1/obj/Debug/net7.0/CSD 268 .F70D4BD5.Up2Date
 /Users/audrey/AndroidStudioProjects/csd230-final-NutritionalYeet/silly_character_battler/CSD-268-Final-Part-1/CSD 268 Final Part 1/CSD 268 Final Part 1/obj/Debug/net7.0/CSD 268 Final Part 1.genruntimeconfig.cache
 /Users/audrey/AndroidStudioProjects/csd230-final-NutritionalYeet/silly_character_battler/CSD-268-Final-Part-1/CSD 268 Final Part 1/CSD 268 Final Part 1/obj/Debug/net7.0/ref/CSD 268 Final Part 1.dll
+/Users/audrey/AndroidStudioProjects/csd230-final-NutritionalYeet/silly_character_battler/CSD-268-Final-Part-1/CSD 268 Final Part 1/CSD 268 Final Part 1/obj/Debug/net7.0/CSD 268 Final Part 1.csproj.CopyComplete
